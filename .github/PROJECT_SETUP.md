@@ -13,6 +13,7 @@ This repository has been initialized with the following setup:
 
 1. ⏳ Branch protection ruleset import - requires `GH_ORCHESTRATION_AGENT_TOKEN` with `administration:write` scope
 2. ⏳ GitHub Project creation - requires organization/project permissions
+3. ⏳ Pull request creation - GitHub Actions bot not permitted to create PRs
 
 ## Notes
 
